@@ -1,6 +1,12 @@
-# DataScienceBlogPost
+≈# DataScienceBlogPost
 
 # Developer Salaries & Experience: What Actually Drives a Tech Career?
+
+## 📰 Read the Blog Post
+
+👉 [What 65,000 Developers Taught Me About Salary, Experience, and Happiness](https://medium.com/@abduallah.s2004/what-65-000-developers-taught-me-about-salary-experience-and-happiness-9e1e43308fe9)
+
+A non-technical summary of the findings, written for anyone curious about developer careers.
 
 ## 💡 Motivation
 
